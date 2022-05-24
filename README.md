@@ -16,6 +16,8 @@ AI를 공부하기 전 컴퓨터가 이미지를 어떻게 인식하는지 이�
 ## settings...
 ``` terminal
 pip install -r requirements.txt
+
+python excute_test.py
 ```
 
 ## 실행 모습
