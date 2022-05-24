@@ -1,4 +1,4 @@
-# professor_project
+# video_processing_project
 동영상 이미지 처리 기술용 프로그램입니다.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59524278/169860325-1e895108-c7dc-4400-b6d7-89c313805340.gif)
