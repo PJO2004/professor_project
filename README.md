@@ -6,6 +6,9 @@ AI를 공부하기 전 컴퓨터가 이미지를 어떻게 인식하는지 이�
 
 ## Explanation
 동영상 이미지 처리 기술용 프로그램입니다.
+
+이미지를 처리하는 부분과 동영상을 프레임 형태로 나눌 수 있는 프로그램을 만들었습니다.
+
 ## settings...
 ``` terminal
 pip install -r requirements.txt
